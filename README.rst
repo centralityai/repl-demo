@@ -1,6 +1,8 @@
 REPL Demo
 =========
-.. todo Intro, link to article.
+This is a companion repository for the article,
+`Building REPLs for Fun and Profit`_.  Download this repository to your computer
+so that you can try out the examples from the article.
 
 Each file in this repository corresponds to one of the examples in the article:
 
@@ -14,4 +16,7 @@ Each file in this repository corresponds to one of the examples in the article:
   a regular command-line application.
 
 
+.. todo Fix URL
+
+.. _Building REPLs for Fun and Profit: https://centrality.ai
 .. _click: http://click.pocoo.org/
