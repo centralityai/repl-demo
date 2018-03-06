@@ -28,6 +28,8 @@ Installation
 #. For a quick start, run ``pip install -e .`` to install dependency
    libraries, and then you can run any of the code examples in the
    ``deep_thought`` package.
+#. To try out the IPython REPLs, you will also need to install `IPython`_:
+   ``pip install ipython``
 
 The article "`Building REPLs for Fun and Profit`_" will take you step-by-step
 through each of the scripts, so that you can get more information about exactly
@@ -37,5 +39,6 @@ what's happening in each one.
 .. todo Fix URL
 
 .. _Building REPLs for Fun and Profit: https://centrality.ai
-.. _click: http://click.pocoo.org/
+.. _click: http://click.pocoo.org
+.. _IPython: https://ipython.readthedocs.io
 .. _virtualenv: https://docs.pipenv.org/#install-pipenv-today
