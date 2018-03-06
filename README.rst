@@ -1,8 +1,8 @@
 REPL Demo
 =========
 This is a companion repository for the article,
-`Building REPLs for Fun and Profit`_.  Download this repository to your computer
-so that you can try out the examples from the article.
+"`Building REPLs for Fun and Profit`_".  Download this repository to your
+computer so that you can try out the examples from the article.
 
 Each file in this repository corresponds to one of the examples in the article:
 
@@ -15,8 +15,27 @@ Each file in this repository corresponds to one of the examples in the article:
 - ``setup.py`` defines additional metadata so that the REPL can be installed as
   a regular command-line application.
 
+Dependencies
+------------
+The code in this repository has been tested against Python 3.6.
+
+If you encounter any issues, make sure you are using the latest version of
+setuptools (``pip install --upgrade setuptools``).
+
+Installation
+------------
+#. (optional but highly recommended) Create a `virtualenv`_.
+#. For a quick start, run ``pip install -e .`` to install dependency
+   libraries, and then you can run any of the code examples in the
+   ``deep_thought`` package.
+
+The article "`Building REPLs for Fun and Profit`_" will take you step-by-step
+through each of the scripts, so that you can get more information about exactly
+what's happening in each one.
+
 
 .. todo Fix URL
 
 .. _Building REPLs for Fun and Profit: https://centrality.ai
 .. _click: http://click.pocoo.org/
+.. _virtualenv: https://docs.pipenv.org/#install-pipenv-today
