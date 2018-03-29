@@ -38,7 +38,7 @@ what's happening in each one.
 
 .. todo Fix URL
 
-.. _Building REPLs for Fun and Profit: https://centrality.ai
+.. _Building REPLs for Fun and Profit: https://medium.com/centrality/building-repls-for-fun-and-profit-597ae4fcdd85
 .. _click: http://click.pocoo.org
 .. _IPython: https://ipython.readthedocs.io
 .. _virtualenv: https://docs.pipenv.org/#install-pipenv-today
